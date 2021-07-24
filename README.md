@@ -232,13 +232,13 @@
 ###### 中等
 
 - [1190. 反转每对括号间的子串](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
-- [394. 字符串解码](https://leetcode.com/problems/decode-string/)
-- [456. 132 模式](https://leetcode.com/problems/132-pattern/)
-- [227. 基本计算器 II](https://leetcode.com/problems/basic-calculator-ii/)
-- [150. 逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [503. 下一个更大元素 II](https://leetcode.com/problems/next-greater-element-ii/)
-- [71. 简化路径](https://leetcode.com/problems/simplify-path/)
-- [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/)
+- [394. 字符串解码](https://leetcode.com/problems/decode-string/) Fail
+- [456. 132 模式](https://leetcode.com/problems/132-pattern/) Fail
+- [227. 基本计算器 II](https://leetcode.com/problems/basic-calculator-ii/) Note: devide and previous sign
+- [150. 逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/) Note: devide
+- [503. 下一个更大元素 II](https://leetcode.com/problems/next-greater-element-ii/) Note: concatenate
+- [71. 简化路径](https://leetcode.com/problems/simplify-path/) Fail
+- [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/) Fail
 - [907. 子数组的最小值之和](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [385. 迷你语法分析器](https://leetcode.com/problems/mini-parser/)
 - [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
