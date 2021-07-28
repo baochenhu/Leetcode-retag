@@ -490,15 +490,15 @@
 
 ###### 中等
 
-- [279. 完全平方数](https://leetcode.com/problems/perfect-squares/)
+- [279. 完全平方数](https://leetcode.com/problems/perfect-squares/) candidate number(num ** 0.5)
 - [130. 被围绕的区域](https://leetcode.com/problems/surrounded-regions/)
-- [1319. 连通网络的操作次数](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
-- [934. 最短的桥](https://leetcode.com/problems/shortest-bridge/)
-- [785. 判断二分图](https://leetcode.com/problems/is-graph-bipartite/)
+- [1319. 连通网络的操作次数](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)  count component
+- [934. 最短的桥](https://leetcode.com/problems/shortest-bridge/) 
+- [785. 判断二分图](https://leetcode.com/problems/is-graph-bipartite/) for each node, we need to check mark or not.
 - [994. 腐烂的橘子](https://leetcode.com/problems/rotting-oranges/)
 - [752. 打开转盘锁](https://leetcode.com/problems/open-the-lock/)
-- [1162. 地图分析](https://leetcode.com/problems/as-far-from-land-as-possible/)
-- [529. 扫雷游戏](https://leetcode.com/problems/minesweeper/)
+- [1162. 地图分析](https://leetcode.com/problems/as-far-from-land-as-possible/) if len(q) == n * n or len(q) == 0: return -1
+- [529. 扫雷游戏](https://leetcode.com/problems/minesweeper/) if count: continue.  skip the one with number.
 
 ###### 困难
 
